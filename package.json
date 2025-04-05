@@ -15,5 +15,5 @@
     "express": "^5.1.0",
     "mongoose": "^8.13.2"
   },
-  "proxy":"http://localhost:5173/"
+  "proxy":"https://stock-analysis-lovat.vercel.app/"
 }
